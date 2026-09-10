@@ -31,9 +31,3 @@ Playlist:
 
 https://www.youtube.com/playlist?list=PLz_5rPRIvGEBDvyf-HIIDHjsPppnuXtFG
 
-## Author
-
-Bahruz Mammadov
-
-GitHub:
-https://github.com/bahruzmammad
